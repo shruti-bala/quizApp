@@ -1,0 +1,12 @@
+.container{
+    margin-top: 0px;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    
+    background-image: url("../../images/coursebg1.jpeg");
+    background-size: 100%;
+    /* backdrop-filter: blur(400px); */
+    /* backdrop-filter: blur(5px); */
+
+}   
