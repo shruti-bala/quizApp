@@ -1,0 +1,32 @@
+.browseItem{
+    display: inline-block;
+    width: 350px;
+    height: 470px;
+    text-align: center;
+    margin: 20px;
+    background-color: #ecd4d4;
+    /* background-image: url("""); */
+    border-radius: 10px;
+
+
+
+    
+}
+
+.browseItem img{
+    padding-top: 40px;
+    width: 250px;
+    height: 250px;
+    /* background-color: ; */
+    /* background-color: #000000; */
+
+}
+
+/* .star   {
+    background-image: url("../../images/coursebg.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+} */
+/* .btn{
+    padding: 10px;
+} */
